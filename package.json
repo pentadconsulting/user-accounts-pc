@@ -1,0 +1,27 @@
+{
+  "name": "user-accounts-pc",
+  "version": "1.0.0",
+  "description": "package for signup and logIn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pentadconsulting/user-accounts-pc.git"
+  },
+  "keywords": [
+    "login",
+    "signUp"
+  ],
+  "author": "Shailes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pentadconsulting/user-accounts-pc/issues"
+  },
+  "homepage": "https://github.com/pentadconsulting/user-accounts-pc#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
